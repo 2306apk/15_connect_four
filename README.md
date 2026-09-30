@@ -94,7 +94,7 @@ Submission is only the following three things:
 
 - [x] A 10-second video of gameplay **before** your changes, showing the bug/broken behavior: [`Lab-4/Videos/before.mp4`](Lab-4/Videos/before.mp4)
 - [x] A 10-second video of gameplay **after** your changes, showing the bug fixed and the new features working: [`Lab-4/Videos/after.mp4`](Lab-4/Videos/after.mp4)
-- [x] The Chat/LLM used page link, with the complete chat history: [`Lab-4/Chat_History_Link.md`](Lab-4/Chat_History_Link.md)
+- [x] The Chat/LLM history exported as PDF: [`Lab-4/Chat_History.pdf`](Lab-4/Chat_History.pdf)
 
 The PDF export and verification record are available at [`Lab-4/Chat_History.pdf`](Lab-4/Chat_History.pdf).
 
