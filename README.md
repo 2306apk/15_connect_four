@@ -97,3 +97,5 @@ Submission is only the following three things:
 - [x] The Chat/LLM used page link, with the complete chat history: [`Lab-4/Chat_History_Link.md`](Lab-4/Chat_History_Link.md)
 
 The PDF export and verification record are available at [`Lab-4/Chat_History.pdf`](Lab-4/Chat_History.pdf).
+
+The complete packaged submission is available at [`15_connect_four_Lab_4_Submission.zip`](15_connect_four_Lab_4_Submission.zip).
